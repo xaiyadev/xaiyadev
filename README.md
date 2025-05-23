@@ -1,24 +1,24 @@
-## ✨ About me 
-I am Xaiya a 17 year old student from germany!
+## ✨ About Me  
+Hi, I'm Xaiya, a 17-year-old student from Germany
 
 ---
 
-I am currently learning for my technical diploma as a software engineer
+I'm currently studying for my technical diploma in software engineering.
 
-In the meanwhile I am learning about DevOps + programing in many different languages
+In the meantime, I'm exploring DevOps and programming in many different languages.
 
-## 🔭 Current Projects
-#### Primary
-- [dotfiles](https://github.com/xaiyadev/dotfiles) - My NixOS configuration
-- [doodle](https://github.com/xaiyadev/doodle) A warioware-like game for my final project at school
+## 🔭 Current Projects  
+#### Primary  
+- [dotfiles](https://github.com/xaiyadev/dotfiles) – My NixOS configuration  
+- [doodle](https://github.com/xaiyadev/doodle) – A WarioWare-style game for my final school project  
 
-#### Collaborations
-- [TidaLuna](https://github.com/Inrixia/TidaLuna) - A injected client for TIDAL (successor to neptune)
+#### Collaborations  
+- [TidaLuna](https://github.com/Inrixia/TidaLuna) – An injected client for TIDAL (successor to Neptune)
 
-#### Extras
-- Writing [shopware](https://github.com/shopware/shopware) plugins/themes and other stuff related to that! (for [BLMEDiA](https://www.blmedia.de/))
+#### Extras  
+- Writing [Shopware](https://github.com/shopware/shopware) plugins, themes, and other related tools for [BLMEDiA](https://www.blmedia.de/)
 
-## 📬 Contact Me
-- You can contact me through discord (xaiya.dev)
-- Also you could write me on [Bluesky](https://bsky.app/profile/xaiya.dev)
-- Or jsut write me an Email (d.schumin@proton.me)
+## 📬 Contact Me  
+- DM me on discord (xaiya.dev)  
+- Write me a message on [Bluesky](https://bsky.app/profile/xaiya.dev)  
+- Or just email me: d.schumin@proton.me
