@@ -1,3 +1,8 @@
 ## ✨ About me
 This GitHub Account is only used for collaborations.
-<br>All other things git related can be found on [my selfhosted instance](https://git.xaiya.dev/xaiyadev)
+
+---
+
+This means:
+- This account is only used for oppening PRs/Issues and managing them. No own repository will be hosted here anymore.
+- All other things git related can be found on [Tangled (atprotocol git)](https://tangled.org/did:plc:mycafjhyplj5z7a6qi5qjcil)
