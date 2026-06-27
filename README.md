@@ -1,8 +1,9 @@
-## ✨ About me
-This GitHub Account is only used for collaborations.
 
+💖 Back on GitHub!!
 ---
 
-This means:
-- This account is only used for opening PRs/Issues and managing them. No own repository will be hosted here anymore.
-- All other things git related can be found on [Tangled (atprotocol git)](https://tangled.org/did:plc:mycafjhyplj5z7a6qi5qjcil)
+Will add more here in the future, but I've returned from the tangled (for now). <br>
+Thanks for checking out my profile <3
+
+---
+Currently working as a full-stack/DevOps developer, while in my free time working on my dotfiles.
